@@ -1,4 +1,4 @@
-# Rust :heart: Emacs
+# Rust :heart: Emacs :heart: Kubernetes
 
 [![Join the chat at https://gitter.im/remacs-discuss/Lobby](https://badges.gitter.im/remacs-discuss/Lobby.svg)](https://gitter.im/remacs-discuss/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://travis-ci.org/Wilfred/remacs.svg?branch=master)](https://travis-ci.org/Wilfred/remacs)
@@ -13,6 +13,7 @@ GPLv3 license.
 - [Rust :heart: Emacs](#rust-heart-emacs)
     - [Why Emacs?](#why-emacs)
     - [Why Rust?](#why-rust)
+    - [Why Kubernetes?](#why-k8s)
     - [Why A Fork?](#why-a-fork)
     - [Getting Started](#getting-started)
         - [Requirements](#requirements)
@@ -110,6 +111,9 @@ fast, correct code (even when using multithreading). This also makes
 it much easier for newcomers to contribute.
 
 Give it a try. We think you'll like it.
+
+## Why Kubernetes?
+###TODO
 
 ## Why A Fork?
 
